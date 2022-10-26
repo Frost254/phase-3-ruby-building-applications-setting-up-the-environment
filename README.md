@@ -20,7 +20,7 @@ which file should be run? In addition to this, when we run the file, how do we
 ensure all our necessary files are required?
 
 There are two common conventions we're going to look at in this lesson that
-address these questions: using a "run" file, and setting up the environment in
+address these questions: using a "run" file, and setting up the environment ingit@github.com:Frost254/phase-3-ruby-building-applications-setting-up-the-environment.git
 `environment.rb`.
 
 ## Using a Run File
